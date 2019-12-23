@@ -1,9 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Proin a dui at urna venenatis tempus. Nam facilisis nisl eget aliquam placerat. 
-Morbi tincidunt eu nisi id porttitor. Sed facilisis augue quis fermentum egestas.
-In velit libero, facilisis vitae ullamcorper ut, tincidunt ut sem. Quisque ut tincidunt lectus.
-Pellentesque a ipsum vehicula, viverra lacus ornare, dapibus augue. Ut volutpat nibh vitae orci sollicitudin fringilla.
-Nunc malesuada venenatis purus, eu sagittis turpis efficitur id. 
-Fusce feugiat, diam a lobortis luctus, nulla ante malesuada mauris, id ullamcorper diam est sit amet sapien. 
-Cras id molestie mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc ac malesuada magna, a egestas ipsum. 
-Suspendisse commodo sed massa id pulvinar. Nam accumsan felis non purus tincidunt, pellentesque condimentum elit tristique.
